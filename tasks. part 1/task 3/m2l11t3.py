@@ -6,8 +6,8 @@
 # Задача: Вывести квадраты чисел от 1 до 4
 n = 1
 while n <= 4:
-    square = n ** 2
+    square = n * 4
     print(square)
-    n += 1
+
 
 
