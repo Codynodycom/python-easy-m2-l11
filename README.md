@@ -2,7 +2,7 @@
 
 ## Содержание
 
-[Цикл while](theory/01-1-while_loop.md)
+[Цикл while](theory/01-01-while_loop.md)
 
 [Классические примеры применения цикла](theory/01-02-while_exmpls.md)
 
